@@ -1,3 +1,5 @@
+/*Tool for analyzing the cache-allocation of memory-regions.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
